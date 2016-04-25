@@ -1,0 +1,15 @@
+{
+  "name": "console-dog",
+  "version": "1.0.0",
+  "description": "Why console.log when you can console.dog?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "console.dog",
+    "cowsay"
+  ],
+  "author": "Matt Furden",
+  "license": "ISC"
+}
